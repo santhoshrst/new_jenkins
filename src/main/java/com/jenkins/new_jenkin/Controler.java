@@ -8,7 +8,7 @@ public class Controler {
 
     @GetMapping("/home")
     public String home(){
-        return "BE(ComputerScience and Engineering)";
+        return "VimalBE(ComputerScience and Engineering)";
     }
 
 }
